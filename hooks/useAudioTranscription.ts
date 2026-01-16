@@ -118,6 +118,7 @@ export const useAudioTranscription = ({ onTranscriptionComplete, onStateChange }
           },
           config: {
               inputAudioTranscription: {},
+              responseModalities: [Modality.AUDIO],
           },
       });
     } catch (err) {

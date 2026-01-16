@@ -1,0 +1,7 @@
+{
+  "name": "Gemini AI Assistant",
+  "description": "An AI-powered assistant that combines a smart chatbot with search grounding, voice transcription, and text-to-speech capabilities in a sleek, modern interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
